@@ -25,10 +25,10 @@
     "rotating-file-stream": "2.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.7.7",
-    "@babel/plugin-proposal-optional-chaining": "7.7.5",
-    "@babel/preset-env": "7.7.7",
-    "@babel/preset-typescript": "7.7.7",
+    "@babel/core": "7.25.9",
+    "@babel/plugin-proposal-optional-chaining": "7.21.0",
+    "@babel/preset-env": "7.25.9",
+    "@babel/preset-typescript": "7.25.9",
     "@types/bcrypt": "3.0.0",
     "@types/body-parser": "1.17.1",
     "@types/cors": "2.8.6",
